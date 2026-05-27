@@ -8,7 +8,7 @@
   "homepage": "https://vaner.ai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Borgels/vaner-desktop.git"
+    "url": "https://github.com/borgels/vaner-desktop.git"
   },
   "type": "module",
   "scripts": {
